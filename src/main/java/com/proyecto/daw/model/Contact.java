@@ -1,0 +1,31 @@
+package com.proyecto.daw.model;
+
+import jakarta.persistence.*;
+import lombok.Data;
+import java.time.LocalDateTime;
+
+@Entity
+@Table(name = "mensajes_contacto")
+@Data
+public class Contact {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Integer id;
+
+    @Column(nullable = false, length = 100)
+    private String nombre;
+
+    @Column(nullable = false, length = 100)
+    private String correo;
+
+    @Column(nullable = false, columnDefinition = "TEXT")
+    private String mensaje;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "id_usuario")
+    private Usuario usuario;
+
+    @Column(name = "fecha_envio", insertable = false, updatable = false)
+    private LocalDateTime fechaEnvio;
+}
