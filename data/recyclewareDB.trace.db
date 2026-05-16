@@ -1,0 +1,745 @@
+2026-04-14 13:20:52.734589+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:38:45.751739+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:38:45.780337+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:39:17.564962+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:39:17.589600+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:42:35.329387+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:42:35.347761+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:42:43.119732+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:42:43.145580+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:42:50.677198+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:42:50.687499+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:42:53.506343+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:42:53.529555+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:43:08.719635+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:43:08.728965+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-04-14 13:45:02.197771+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-04-14 13:45:02.229579+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 11:46:45.977117+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 11:46:46.007633+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 11:54:45.484029+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 11:54:45.499029+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 11:54:50.254885+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 11:54:50.270884+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 11:59:28.052051+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 11:59:28.065400+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 12:02:28.428810+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 12:02:28.467414+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 12:34:40.275607+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 12:34:40.320127+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 13:53:26.691031+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 13:53:26.740251+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-07 13:55:34.891316+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-07 13:55:34.915945+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 10:12:20.080344+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 10:12:20.112962+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 10:21:41.966970+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 10:21:41.984970+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 10:21:55.140353+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 10:21:55.161996+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 10:22:12.873249+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 10:22:12.897622+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 10:35:31.449143+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 10:35:31.518685+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 11:18:05.723171+02:00 jdbc[25]: null
+org.h2.message.DbException: La conexión no fue cerrada por la aplicación y esta siendo limpiada (garbage collected)
+The connection was not closed by the application and is garbage collected [90018-240]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcConnection.closeOld(JdbcConnection.java:217)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:134)
+	at org.h2.Driver.connect(Driver.java:59)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:144)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:373)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:210)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:488)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:576)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:97)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:111)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:160)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:118)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:81)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:52)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:87)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:159)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:120)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applySchemaScripts(AbstractScriptDatabaseInitializer.java:109)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:87)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:77)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:309)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:201)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:977)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621)
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354)
+	at com.proyecto.daw.DawApplication.main(DawApplication.java:9)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: La conexión no fue cerrada por la aplicación y esta siendo limpiada (garbage collected)
+The connection was not closed by the application and is garbage collected [90018-240]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 45 more
+2026-05-11 11:18:05.789131+02:00 jdbc[25]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 11:18:05.804404+02:00 jdbc[25]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 11:19:10.319589+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 11:19:10.346279+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 13:26:52.224394+02:00 jdbc[57]: null
+org.h2.message.DbException: La conexión no fue cerrada por la aplicación y esta siendo limpiada (garbage collected)
+The connection was not closed by the application and is garbage collected [90018-240]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcConnection.closeOld(JdbcConnection.java:217)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:134)
+	at org.h2.Driver.connect(Driver.java:59)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:144)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:373)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:210)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:488)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:752)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:731)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: La conexión no fue cerrada por la aplicación y esta siendo limpiada (garbage collected)
+The connection was not closed by the application and is garbage collected [90018-240]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 16 more
+2026-05-11 13:48:56.988488+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 13:48:57.022318+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 13:49:01.556978+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 13:49:01.568833+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 13:55:33.647910+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 13:55:33.674789+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 18:51:29.682262+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 18:51:29.703474+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-11 18:51:40.926645+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-11 18:51:40.945183+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 21:31:43.924000+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 21:31:43.942518+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 21:34:29.245219+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 21:34:29.262464+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 21:47:35.383029+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 21:47:35.407756+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 21:55:54.633912+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 21:55:54.645407+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 21:57:09.017850+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 21:57:09.042412+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 22:22:18.479659+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 22:22:18.498020+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 22:28:35.581430+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 22:28:35.600143+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 22:34:39.787884+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 22:34:39.805109+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 22:38:36.848656+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 22:38:36.870952+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-12 23:23:15.520456+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-12 23:23:15.538972+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 04:50:21.223544+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 04:50:21.242812+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 04:56:37.631903+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 04:56:37.651652+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:31:23.139198+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:31:23.156025+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:34:32.648634+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:34:32.665159+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:36:55.172989+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:36:55.183753+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:37:01.730560+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:37:01.738998+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:37:06.858230+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:37:06.866981+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:37:33.278209+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:37:33.298860+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:53:30.582953+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:53:30.601527+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 05:55:52.902213+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 05:55:52.920094+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 06:00:27.768797+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 06:00:27.786506+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 06:21:29.180268+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 06:21:29.197299+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 10:03:49.376344+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 10:03:49.402347+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-13 22:37:06.845125+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-13 22:37:06.862712+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 01:35:04.391608+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 01:35:04.414661+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 15:56:35.607788+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 15:56:35.628492+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 16:21:06.317600+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 16:21:06.334432+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 16:35:59.855816+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 16:35:59.877277+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 17:39:00.065154+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 17:39:00.095362+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 17:50:25.516727+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 17:50:25.535212+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 17:56:27.163346+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 17:56:27.179546+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 18:00:59.396734+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 18:00:59.406101+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-14 18:27:53.534901+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-14 18:27:53.550440+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 03:48:40.538507+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 03:48:40.565727+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 04:47:04.980913+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 04:47:04.996987+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:53:04.636496+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:53:04.676944+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:55:57.120231+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:55:57.136231+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:56:06.290089+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:56:06.303087+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:56:12.399716+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:56:12.411269+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:56:22.981123+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:56:23.001083+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:56:30.093584+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:56:30.100580+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:56:35.219841+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:56:35.226844+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:56:54.969548+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:56:54.978675+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:56:59.523794+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:56:59.529314+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 10:57:05.758896+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 10:57:05.763897+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 13:21:53.094874+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 13:21:53.159209+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 18:37:03.565935+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 18:37:03.584273+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 18:47:04.361796+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 18:47:04.383753+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-15 19:28:31.348761+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-15 19:28:31.365427+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-16 04:31:12.177442+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-16 04:31:12.194723+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-16 04:55:50.124546+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-16 04:55:50.142409+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-16 13:31:49.246615+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-16 13:31:49.267221+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-16 13:37:19.498829+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-16 13:37:19.523145+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-16 14:17:48.414820+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-16 14:17:48.437608+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
+2026-05-16 14:25:39.329909+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "RESENAS" ya existe
+Table "RESENAS" already exists; SQL statement:
+CREATE TABLE resenas ( id INT NOT NULL AUTO_INCREMENT, texto TEXT NOT NULL, autor VARCHAR(80) NOT NULL, rol VARCHAR(45) NOT NULL, estrellas INT DEFAULT 5, activa BOOLEAN DEFAULT TRUE, PRIMARY KEY (id) ) [42101-240]
+2026-05-16 14:25:39.344269+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Valor demasiado largo para la columna "DNI CHARACTER VARYING(9)": "'124445645X' (10)"
+Value too long for column "DNI CHARACTER VARYING(9)": "'124445645X' (10)"; SQL statement:
+INSERT INTO usuarios (nombre, dni, telefono, correo, contrasenia, direccion, localidad, codigo_postal, rol) VALUES ('Luis Part', '124445645X', '600111222', 'luis.part@particular.com', '$2a$10$ayw3FCBIkupFt5n9lrmJQe9XZMJhZiNCjaoOkXo/Ba0KZgymO01ce', 'Calle Balmis 45', 'Alicante', '03001', 'PARTICULAR') [22001-240]
